@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 </div>
 
 
-<h1 align="center">Hi, I am Ziaur Rahman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I am Ziaur Rahman Senior Software Engineer</h1>
 
-I am a Back-End Engineer with industry experience in building flexible, secure, optimized websites and web applications. Specialist in laravel, Symphony and Wordpress Framework. Satisfactory background working with Vue, NextJs, React, PWA, and Embedded system integration on multiple projects.
+I am a Back-End Engineer with industry experience in building flexible, secure, optimized websites and web applications. Specialist in laravel, Symphony and Wordpress Framework. Satisfactory background working with Vue, Vuetify, PWA, and Embedded system integration on multiple projects.
 
 
 I have powerful experience in web application development and am eager to learn more concepts and deep dive into computer science tracks. Good in architecting high-available, flexible, and secure applications.
