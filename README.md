@@ -19,9 +19,6 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Ziaur+Rahman;Senior+Software+Engineer;" />
 </div>
 
-
-<h1 align="center">Hi, I am Ziaur Rahman Senior Software Engineer</h1>
-
 I am a Back-End Engineer with industry experience in building flexible, secure, optimized websites and web applications. Specialist in laravel, Symphony and Wordpress Framework. Satisfactory background working with Vue, Vuetify, PWA, and Embedded system integration on multiple projects.
 
 
